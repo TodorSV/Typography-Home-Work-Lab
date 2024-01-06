@@ -1,0 +1,6 @@
+span:nth-child(odd) {
+    color: white;
+    background-color: red;
+}
+
+/* Use the nth child combinator to set color white and background-color red to odd span. */

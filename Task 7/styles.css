@@ -1,0 +1,5 @@
+body :last-child {
+    color: red;
+ }
+
+ /* Use the last child combinator to set color red to span. */

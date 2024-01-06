@@ -1,0 +1,5 @@
+span:first-child {
+    font-weight: bold;
+    color: red;
+}
+/* Use the first child combinator to set font-weight bold and color red to span. */

@@ -1,0 +1,5 @@
+p:last-of-type {
+    background-color: yellow;
+}
+
+/* Use the last type combinator to set background-color yellow to last paragraph. */
